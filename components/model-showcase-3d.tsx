@@ -9,7 +9,7 @@ import { ChevronDown, X } from "lucide-react"
 const models = [
   {
     id: 1,
-    name: "Gedu Higher Secondary School - Main Building",
+    name: "Gedu Higher Secondary School sample - Main Building",
     category: "Education",
     description:
       "The iconic main administrative building of Gedu Higher Secondary School, featuring traditional Bhutanese architecture with modern educational facilities.",
